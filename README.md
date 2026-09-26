@@ -138,8 +138,3 @@ python tests/test_app_render.py    # UI layout & component verification
 - **XSS Protection:** Automatic HTML tag neutralization across dynamic UI views.
 
 ---
-
-## 👩‍💻 Author
-**Bhavika Kothari**  
-MSc Cyber Security and Forensic Information Technology  
-School of Computing, University of Portsmouth
